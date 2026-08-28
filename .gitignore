@@ -1,0 +1,94 @@
+# ==============================================================================
+# Git Ignore Configuration for Hackathon Concierge Full-Stack Repository
+# ==============================================================================
+
+# --- Environment & Credentials (CRITICAL: Never commit to GitHub) ---
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
+*.p12
+
+# --- Python & Virtual Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+*/.venv/
+venv/
+*/venv/
+ENV/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Node & Frontend Build ---
+node_modules/
+*/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.local
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Databases & Local Storage ---
+*.db
+*.sqlite
+*.sqlite3
+backend/hackathon.db
+backend/data/hackathon.db
+backend/data/attachments/*
+!backend/data/attachments/.gitkeep
+
+# --- Scratch & Temporary Test Folders ---
+scratch/
+backend/scratch/
+temp/
+tmp/
+
+# --- IDEs & System Files ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swo
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+logs/
+*.log

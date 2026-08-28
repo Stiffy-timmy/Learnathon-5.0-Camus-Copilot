@@ -1,0 +1,568 @@
+{
+  "apiKeys": [
+    {
+      "id": "key_groq",
+      "provider": "Groq Llama 3.3 (Fast Inference)",
+      "description": "Ultra-fast LLM inference API key for live concierge and autonomous agents.",
+      "accessKey": "mock_groq_hackathon_sandbox_key_2026",
+      "quota": "100,000 tokens/min",
+      "claimedCount": 43
+    },
+    {
+      "id": "key_gemini",
+      "provider": "Google Gemini 2.0 Flash / Pro",
+      "description": "Multimodal AI API sandbox for code generation, image analysis, and agents.",
+      "accessKey": "mock_gemini_campus_sandbox_key_2026",
+      "quota": "15 RPM Free Tier",
+      "claimedCount": 68
+    },
+    {
+      "id": "key_openai",
+      "provider": "OpenAI GPT-4o-mini Sponsor Sandbox",
+      "description": "General reasoning API credits for hackathon track prototypes.",
+      "accessKey": "mock_openai_sponsor_sandbox_key_2026",
+      "quota": "$20 Credit Grant",
+      "claimedCount": 55
+    },
+    {
+      "id": "key_cloud",
+      "provider": "Cloud Sandbox & Postgres DB Access",
+      "description": "Direct hosted database and reverse-proxy deployment tunnel.",
+      "accessKey": "postgres://hack_user:sprint2026@cluster.gietu.edu:5432/hackathon",
+      "quota": "2GB RAM Sandbox",
+      "claimedCount": 31
+    }
+  ],
+  "hardwareInventory": [
+    {
+      "id": "hw_esp32",
+      "name": "ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "category": "IoT & Embedded",
+      "total": 20,
+      "available": 12,
+      "location": "Hardware Desk A"
+    },
+    {
+      "id": "hw_arduino",
+      "name": "Arduino Uno R4 Starter Kits with Sensors",
+      "category": "Robotics",
+      "total": 15,
+      "available": 9,
+      "location": "Hardware Desk A"
+    },
+    {
+      "id": "hw_rpi",
+      "name": "Raspberry Pi 5 (8GB) AI Edge Kits",
+      "category": "Edge AI",
+      "total": 10,
+      "available": 4,
+      "location": "Hardware Desk B"
+    },
+    {
+      "id": "hw_vr",
+      "name": "Meta Quest 3 VR Development Headset",
+      "category": "Spatial / AR",
+      "total": 4,
+      "available": 2,
+      "location": "Hardware Desk B"
+    },
+    {
+      "id": "hw_health",
+      "name": "Pulse Oximeter & ECG Sensor Modules",
+      "category": "MedTech",
+      "total": 12,
+      "available": 8,
+      "location": "Hardware Desk A"
+    }
+  ],
+  "mentorBookings": [
+    {
+      "id": "MB_112051",
+      "mentorId": null,
+      "mentorName": "Dr. Sarah Chen",
+      "slot": "Slot @ 14:00",
+      "topic": "LLM agent architecture review",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Dr. Sarah Chen (Slot @ 14:00) \u2014 LLM agent architecture review",
+      "requestedAt": "2026-08-28T11:20:51.781478+00:00"
+    },
+    {
+      "id": "MB_112051",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T11:20:51.746687+00:00"
+    },
+    {
+      "id": "MB_043457",
+      "mentorId": "mentor_4481ba",
+      "mentorName": "Prof. Alan Turing",
+      "slot": "15 mins (Immediate)",
+      "topic": "Need guidance",
+      "userEmail": "bivashbiswal.420@gmail.com",
+      "userName": "Bivash Biswal",
+      "teamName": "Chakra",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Prof. Alan Turing (15 mins (Immediate)) \u2014 Need guidance",
+      "requestedAt": "2026-08-28T04:34:57.744899+00:00"
+    },
+    {
+      "id": "MB_041043",
+      "mentorId": "mentor_3",
+      "mentorName": "Elena Rostova",
+      "slot": "15 mins (Immediate)",
+      "topic": "For learnathon",
+      "userEmail": "dgod71120@gmail.com",
+      "userName": "BIvashRB",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Elena Rostova (15 mins (Immediate)) \u2014 For learnathon",
+      "requestedAt": "2026-08-28T04:10:43.357620+00:00"
+    },
+    {
+      "id": "MB_035328",
+      "mentorId": null,
+      "mentorName": "Dr. Sarah Chen",
+      "slot": "Slot @ 14:00",
+      "topic": "LLM agent architecture review",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Dr. Sarah Chen (Slot @ 14:00) \u2014 LLM agent architecture review",
+      "requestedAt": "2026-08-28T03:53:28.400932+00:00"
+    },
+    {
+      "id": "MB_035328",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:53:28.315095+00:00"
+    },
+    {
+      "id": "MB_033912",
+      "mentorId": null,
+      "mentorName": "Dr. Sarah Chen",
+      "slot": "Slot @ 14:00",
+      "topic": "LLM agent architecture review",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Dr. Sarah Chen (Slot @ 14:00) \u2014 LLM agent architecture review",
+      "requestedAt": "2026-08-28T03:39:12.848090+00:00"
+    },
+    {
+      "id": "MB_033912",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:39:12.777035+00:00"
+    },
+    {
+      "id": "MB_033842",
+      "mentorId": null,
+      "mentorName": "Dr. Sarah Chen",
+      "slot": "Slot @ 14:00",
+      "topic": "LLM agent architecture review",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Dr. Sarah Chen (Slot @ 14:00) \u2014 LLM agent architecture review",
+      "requestedAt": "2026-08-28T03:38:42.213452+00:00"
+    },
+    {
+      "id": "MB_033842",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:38:42.142120+00:00"
+    },
+    {
+      "id": "MB_033824",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:38:24.524942+00:00"
+    },
+    {
+      "id": "MB_033746",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:37:46.021624+00:00"
+    },
+    {
+      "id": "MB_033728",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:37:28.106442+00:00"
+    },
+    {
+      "id": "MB_033703",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:37:03.700276+00:00"
+    },
+    {
+      "id": "MB_033605",
+      "mentorId": null,
+      "mentorName": "Senior Track Mentor",
+      "slot": "15 mins (Immediate)",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "CONFIRMED",
+      "location": "Lounge B / Mentor Desk",
+      "displayText": "Senior Track Mentor (15 mins (Immediate)) \u2014 Debugging LangChain memory leaks",
+      "requestedAt": "2026-08-28T03:36:05.059519+00:00"
+    },
+    {
+      "id": "MB_032009",
+      "track": "Track 1: AI & Autonomous Agents",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "pending",
+      "assignedMentor": "Prof. S. R. Patnaik (AI Track Lead)",
+      "location": "Lounge B / Mentor Desk 3",
+      "estimatedWaitMinutes": 10,
+      "requestedAt": "2026-08-28T03:20:09.684596+00:00"
+    },
+    {
+      "id": "MB_031424",
+      "track": "Track 1: AI & Autonomous Agents",
+      "topic": "Debugging LangChain memory leaks",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "pending",
+      "assignedMentor": "Prof. S. R. Patnaik (AI Track Lead)",
+      "location": "Lounge B / Mentor Desk 3",
+      "estimatedWaitMinutes": 5,
+      "requestedAt": "2026-08-28T03:14:24.264356+00:00"
+    }
+  ],
+  "hardwareRequests": [
+    {
+      "id": "HW_032011",
+      "itemId": "hw_esp32",
+      "itemName": "ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "quantity": 1,
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "approved_for_pickup",
+      "pickupLocation": "Hardware Desk A",
+      "requestedAt": "2026-08-28T03:20:11.765690+00:00"
+    },
+    {
+      "id": "HW_031426",
+      "itemId": "hw_esp32",
+      "itemName": "ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "quantity": 1,
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "approved_for_pickup",
+      "pickupLocation": "Hardware Desk A",
+      "requestedAt": "2026-08-28T03:14:26.343308+00:00"
+    }
+  ],
+  "claimedKeys": [
+    {
+      "keyId": "key_groq",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "claimedAt": "2026-08-28T03:14:22.199363+00:00"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "mentor_1",
+      "name": "Dr. Sarah Chen",
+      "title": "AI / ML Architect \u2022 DeepMind Alum",
+      "status": "Available Now",
+      "statusType": "available",
+      "slotTime": "15 mins (Immediate)",
+      "skills": [
+        "PyTorch",
+        "RAG",
+        "LangChain",
+        "FastAPI"
+      ]
+    },
+    {
+      "id": "mentor_2",
+      "name": "Alex Rivera",
+      "title": "Full-Stack Tech Lead \u2022 Vercel Ecosystem",
+      "status": "Slot @ 14:00",
+      "statusType": "slot",
+      "slotTime": "Slot @ 14:00",
+      "skills": [
+        "React 19",
+        "Next.js",
+        "Solidity",
+        "Tailwind"
+      ]
+    },
+    {
+      "id": "mentor_3",
+      "name": "Elena Rostova",
+      "title": "Hardware & IoT Specialist \u2022 Robotics Lab Lead",
+      "status": "Available Now",
+      "statusType": "available",
+      "slotTime": "15 mins (Immediate)",
+      "skills": [
+        "Raspberry Pi",
+        "Arduino",
+        "Sensors",
+        "MQTT"
+      ]
+    },
+    {
+      "id": "mentor_4",
+      "name": "Marcus Vance",
+      "title": "Cloud & DevOps Architect \u2022 AWS Community Hero",
+      "status": "Slot @ 15:30",
+      "statusType": "slot",
+      "slotTime": "Slot @ 15:30",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD"
+      ]
+    },
+    {
+      "id": "mentor_4481ba",
+      "name": "Prof. Alan Turing",
+      "title": "Quantum & Algorithmic Architect",
+      "status": "Available Now",
+      "statusType": "available",
+      "slotTime": "15 mins (Immediate)",
+      "skills": [
+        "Algorithms",
+        "Cryptography",
+        "Agents"
+      ]
+    },
+    {
+      "id": "mentor_05f325",
+      "name": "Prof. Alan Turing",
+      "title": "Quantum & Algorithmic Architect",
+      "status": "Available Now",
+      "statusType": "available",
+      "slotTime": "15 mins (Immediate)",
+      "skills": [
+        "Algorithms",
+        "Cryptography",
+        "Agents"
+      ]
+    }
+  ],
+  "resourceRequests": [
+    {
+      "id": "REQ_112051_c812",
+      "category": "HARDWARE",
+      "item": "ESP32 Wi-Fi Module",
+      "reason": "Building IoT telemetry prototype",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "APPROVED",
+      "displayText": "[HARDWARE] ESP32 Wi-Fi Module \u2014 Building IoT telemetry prototype",
+      "createdAt": "2026-08-28T11:20:51.798878+00:00",
+      "adminNotes": "Approved by hardware desk"
+    },
+    {
+      "id": "REQ_112051_83b9",
+      "category": "HARDWARE",
+      "item": "1x ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "reason": "Requested 1 units for prototype development",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "PENDING",
+      "displayText": "[HARDWARE] 1x ESP32 Wi-Fi & Bluetooth Microcontrollers \u2014 Requested 1 units for prototype development",
+      "createdAt": "2026-08-28T11:20:51.765239+00:00"
+    },
+    {
+      "id": "REQ_041104_23ad",
+      "category": "HARDWARE",
+      "item": "Raspberry Pi",
+      "reason": "For project",
+      "userEmail": "dgod71120@gmail.com",
+      "userName": "BIvashRB",
+      "teamName": "Solo Developer",
+      "status": "APPROVED",
+      "displayText": "[HARDWARE] Raspberry Pi \u2014 For project",
+      "createdAt": "2026-08-28T04:11:04.817129+00:00"
+    },
+    {
+      "id": "REQ_035328_9fd7",
+      "category": "HARDWARE",
+      "item": "ESP32 Wi-Fi Module",
+      "reason": "Building IoT telemetry prototype",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "APPROVED",
+      "displayText": "[HARDWARE] ESP32 Wi-Fi Module \u2014 Building IoT telemetry prototype",
+      "createdAt": "2026-08-28T03:53:28.438301+00:00",
+      "adminNotes": "Approved by hardware desk"
+    },
+    {
+      "id": "REQ_035328_cd56",
+      "category": "HARDWARE",
+      "item": "1x ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "reason": "Requested 1 units for prototype development",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "REJECTED",
+      "displayText": "[HARDWARE] 1x ESP32 Wi-Fi & Bluetooth Microcontrollers \u2014 Requested 1 units for prototype development",
+      "createdAt": "2026-08-28T03:53:28.356590+00:00"
+    },
+    {
+      "id": "REQ_033912_b891",
+      "category": "HARDWARE",
+      "item": "ESP32 Wi-Fi Module",
+      "reason": "Building IoT telemetry prototype",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "APPROVED",
+      "displayText": "[HARDWARE] ESP32 Wi-Fi Module \u2014 Building IoT telemetry prototype",
+      "createdAt": "2026-08-28T03:39:12.896240+00:00",
+      "adminNotes": "Approved by hardware desk"
+    },
+    {
+      "id": "REQ_033912_989f",
+      "category": "HARDWARE",
+      "item": "1x ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "reason": "Requested 1 units for prototype development",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "PENDING",
+      "displayText": "[HARDWARE] 1x ESP32 Wi-Fi & Bluetooth Microcontrollers \u2014 Requested 1 units for prototype development",
+      "createdAt": "2026-08-28T03:39:12.815773+00:00"
+    },
+    {
+      "id": "REQ_033842_7edd",
+      "category": "HARDWARE",
+      "item": "ESP32 Wi-Fi Module",
+      "reason": "Building IoT telemetry prototype",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "APPROVED",
+      "displayText": "[HARDWARE] ESP32 Wi-Fi Module \u2014 Building IoT telemetry prototype",
+      "createdAt": "2026-08-28T03:38:42.244863+00:00",
+      "adminNotes": "Approved by hardware desk"
+    },
+    {
+      "id": "REQ_033842_a015",
+      "category": "HARDWARE",
+      "item": "1x ESP32 Wi-Fi & Bluetooth Microcontrollers",
+      "reason": "Requested 1 units for prototype development",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Dev Hacker",
+      "teamName": "Solo Developer",
+      "status": "PENDING",
+      "displayText": "[HARDWARE] 1x ESP32 Wi-Fi & Bluetooth Microcontrollers \u2014 Requested 1 units for prototype development",
+      "createdAt": "2026-08-28T03:38:42.176738+00:00"
+    },
+    {
+      "id": "req_demo1",
+      "category": "HARDWARE",
+      "item": "esp32",
+      "reason": "for project",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Alex",
+      "status": "PENDING",
+      "createdAt": "2026-08-28T03:00:00Z"
+    },
+    {
+      "id": "req_demo2",
+      "category": "API_KEY",
+      "item": "rasberry pi",
+      "reason": "for projecct",
+      "userEmail": "hacker@hackathon.com",
+      "userName": "Alex",
+      "status": "APPROVED",
+      "createdAt": "2026-08-28T03:05:00Z"
+    }
+  ]
+}

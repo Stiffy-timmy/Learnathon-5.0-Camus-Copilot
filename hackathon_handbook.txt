@@ -1,0 +1,59 @@
+Hackathon 2026: Official Handbook, Rules & Event Operations Guide
+
+1. Event Overview & Schedule
+Event Duration: 48 Hours continuous sprint (Starts: Day 1 at 09:00 AM IST | Ends: Day 3 at 09:00 AM IST).
+Location: CSE Block, GIETU Gunupur
+Opening Ceremony: Day 1 at 09:00 AM – 10:00 AM IST on August 27.
+Hacking Begins: Day 1 at 10:00 AM IST.
+Catering Schedule: Breakfast: 8:00 AM | Lunch: 1:00 PM | Dinner: 7:00 PM (Lounge C)
+Lunch Breaks: Daily 01:30 PM – 02:30 PM IST (Block B Cafeteria).
+Dinner Breaks: Daily 08:00 PM – 09:00 PM IST (Block B Cafeteria).
+Midnight Snack & Red Bull Call: Day 1 & Day 2 at 12:00 AM (Midnight).
+Mentorship Hours: Day 1 (02:00 PM – 06:00 PM IST) and Day 2 (10:00 AM – 01:00 PM IST & 04:00 PM – 07:00 PM IST).
+Submission Deadline: Day 3 strictly at 9:00 AM IST on August 29.
+Demo & Judging Round: Day 3 at 10:30 AM – 01:00 PM IST.
+Closing & Award Ceremony: Day 3 at 02:00 PM IST.
+
+2. Eligibility & Team Formation Rules
+Team Size: Minimum 2 members, maximum 4 members per team. Solo participants are not permitted to submit projects independently and must use the team-matching portal before Day 1, 12:00 PM IST.
+Cross-Track Participation: A team can submit a project to only one main track, but is eligible for all general sponsor prize bounties.
+Participant ID: All participants must carry official student IDs and keep their registration QR badge visible at the on-site venue.
+
+3. Tracks, Themes, and Problem Domains
+Track 1: AI & Autonomous Agents: Building LLM systems, multi-agent frameworks, RAG workflows, or task automation tooling.
+Track 2: Web3, Fintech & Decentralized Apps: Smart contracts, decentralized identity, payments, and blockchain security.
+Track 3: Healthcare & MedTech: Diagnostics tooling, patient management, accessible health tech, and AI medical triage.
+Track 4: Open Innovation & Smart Campus: Logistics, smart city solutions, IoT, sustainability, and open-source public goods.
+Track 5: Gen AI
+
+4. Code of Conduct & Academic Integrity
+Originality Policy: All project code, design assets, and workflows must be created during the official 48-hour hackathon window.
+Pre-existing Code & Open-Source: Third-party open-source libraries, UI components (e.g., Tailwind, Shadcn), APIs, and pre-trained public models (e.g., Hugging Face, OpenAI API) are fully allowed. However, pre-built proprietary applications or repos with commit histories before Day 1 at 10:00 AM IST are strictly disqualified.
+Use of Generative AI: Using GitHub Copilot, ChatGPT, Claude, and similar code generation tools is permitted for prototyping. Teams must disclose AI assistance in their project README.md.
+Behavior Policy: Zero tolerance for harassment, offensive language, intellectual property theft, or disruptive behavior.
+
+5. Hardware, Cloud Credits & API Distribution
+Wi-Fi Credentials: Network SSID: Hackathon_5G | Password: innovate_2027
+Cloud & LLM API Keys:
+- Groq Free Tier: Endpoint active via portal.
+- Gemini API Keys: Distributed upon verification at Help Desk A.
+Hardware Lab Access: Microcontrollers (ESP32, Raspberry Pi 4, Arduino kits, and sensor packs) are available at Hardware Desk (Block B Room 104). Maximum 2 devices checked out per team; valid student ID deposit required.
+
+6. Submission Audit & Technical Requirements
+All teams must submit before Day 3 at 10:00 AM IST on the submission portal with the following four deliverables:
+1. Public Repository URL: GitHub/GitLab link containing clear setup steps, MIT/Apache 2.0 license, and an updated README.md.
+2. Demo Video Link: YouTube or Loom URL (Maximum 3 minutes long, publicly viewable, showcasing working features).
+3. Live Deployment / APK Link: Working web URL (e.g., Vercel, Render) or downloadable binary/APK.
+4. Presentation Deck: PDF slide deck (Maximum 7 slides covering: Problem, Solution, Architecture, Tech Stack, Business Impact).
+Note: Submissions missing a public repo link or exceeding the 3-minute video limit will fail automated compliance validation.
+
+7. Judging Rubric & Scoring Criteria (100 Points Total)
+- Innovation & Uniqueness: 30%
+- Technical Execution: 30%
+- UX & Polish: 20%
+- Pitch & Impact: 20%
+
+8. Organizer Escalations & Support Desks
+- Emergency Medical / Security: Room 101 Ground Floor | Contact: +91-9876543210
+- Logistics & Catering Issues: Discord channel #ask-organizers or Help Desk B.
+- Technical & API Troubleshooting: Discord channel #mentor-support or submit ticket through the Concierge bot with urgency High.

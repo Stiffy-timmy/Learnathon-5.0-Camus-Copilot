@@ -1,0 +1,358 @@
+{
+  "HACK26-CERT-1495A0DD": {
+    "id": "HACK26-CERT-1495A0DD",
+    "recipientId": "usr_hacker01",
+    "recipientName": "Dev Hacker",
+    "recipientEmail": "hacker@hackathon.com",
+    "roleTitle": "Full-Stack Developer",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "GIETU Smart Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:28.394568+00:00",
+    "verificationHash": "AE1BB0E0E4933455",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-1495A0DD",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ],
+    "certificateTitle": "CERTIFICATE OF EXCELLENCE"
+  },
+  "HACK26-CERT-EB226D80": {
+    "id": "HACK26-CERT-EB226D80",
+    "recipientId": "usr_3fbf2284",
+    "recipientName": "Prajurjya Mohapatra",
+    "recipientEmail": "mrperfectprajurjya@gmail.com",
+    "roleTitle": "Backend & Cloud Engineer (Python / Go / PostgreSQL)",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "GIETU Smart Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.415761+00:00",
+    "verificationHash": "D99ED063ABE4F371",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-EB226D80",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ],
+    "certificateTitle": "CERTIFICATE OF EXCELLENCE"
+  },
+  "HACK26-CERT-110CDA22": {
+    "id": "HACK26-CERT-110CDA22",
+    "recipientId": "usr_89bb208d",
+    "recipientName": "Voracious",
+    "recipientEmail": "mrvoraciousperfect@gmail.com",
+    "roleTitle": "Full-Stack Developer (React / FastAPI / Node)",
+    "teamName": "Newbie",
+    "track": "Track 1: AI & Autonomous Agents",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.435611+00:00",
+    "verificationHash": "DA11510398FA20F9",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-110CDA22",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-3B7174DD": {
+    "id": "HACK26-CERT-3B7174DD",
+    "recipientId": "usr_3368607d",
+    "recipientName": "Alakh pandey",
+    "recipientEmail": "mahessahu21506@gmail.com",
+    "roleTitle": "Full-Stack Developer (React / FastAPI / Node)",
+    "teamName": "Newbie",
+    "track": "Track 1: AI & Autonomous Agents",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.460084+00:00",
+    "verificationHash": "042F30389655920B",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-3B7174DD",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-B8243611": {
+    "id": "HACK26-CERT-B8243611",
+    "recipientId": "usr_f98ffcd7",
+    "recipientName": "BIvashRB",
+    "recipientEmail": "dgod71120@gmail.com",
+    "roleTitle": "Mobile App Developer (Flutter / React Native / Android / iOS)",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "GIETU Smart Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.480827+00:00",
+    "verificationHash": "E2D00F23D8FBD453",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-B8243611",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ],
+    "certificateTitle": "CERTIFICATE OF EXCELLENCE"
+  },
+  "HACK26-CERT-A9176CCB": {
+    "id": "HACK26-CERT-A9176CCB",
+    "recipientId": "usr_c3a2df83",
+    "recipientName": "KIran Kumar Nayak",
+    "recipientEmail": "nkirankumar877@gmail.com",
+    "roleTitle": "Full-Stack Developer (React / FastAPI / Node)",
+    "teamName": "lions",
+    "track": "Track 2: Web3, Fintech & Decentralized Apps",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.501490+00:00",
+    "verificationHash": "3A9657EC0407D75E",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-A9176CCB",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-F8E00629": {
+    "id": "HACK26-CERT-F8E00629",
+    "recipientId": "usr_33e9fdc0",
+    "recipientName": "Mahes Sahu",
+    "recipientEmail": "mahessahu1017@gmail.com",
+    "roleTitle": "UI/UX Designer & Product Lead (Figma / Design Systems)",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.525435+00:00",
+    "verificationHash": "6B598B4D24EB02DC",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-F8E00629",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-6AAA12C9": {
+    "id": "HACK26-CERT-6AAA12C9",
+    "recipientId": "usr_42a883db",
+    "recipientName": "Pending Test User",
+    "recipientEmail": "pending_test_66210@gmail.com",
+    "roleTitle": "Full-Stack Developer",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:14:42.548413+00:00",
+    "verificationHash": "6F0BE39D175D0300",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-6AAA12C9",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-3F4674E7": {
+    "id": "HACK26-CERT-3F4674E7",
+    "recipientId": "usr_0f0c9e93",
+    "recipientName": "Team Delete Leader",
+    "recipientEmail": "teamleader_040b2f@hackathon.io",
+    "roleTitle": "Team Lead & Architect",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:20:22.028654+00:00",
+    "verificationHash": "1ECDAD91F896A7C7",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-3F4674E7",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-A57D793A": {
+    "id": "HACK26-CERT-A57D793A",
+    "recipientId": "usr_e2f50339",
+    "recipientName": "Team Delete Leader",
+    "recipientEmail": "teamleader_451842@hackathon.io",
+    "roleTitle": "Team Lead & Architect",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:20:22.050861+00:00",
+    "verificationHash": "32DBFE7C1FC554A4",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-A57D793A",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "HACK26-CERT-46ACCFA4": {
+    "id": "HACK26-CERT-46ACCFA4",
+    "recipientId": "usr_8bd887ec",
+    "recipientName": "Team Delete Leader",
+    "recipientEmail": "teamleader_432fdf@hackathon.io",
+    "roleTitle": "Team Lead & Architect",
+    "teamName": "Solo Pioneer",
+    "track": "General Innovation & AI Track",
+    "eventName": "Campus Copilot Hackathon 2026",
+    "organizer": "GIETU Dept. of Computer Science & Engineering",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T03:20:22.071961+00:00",
+    "verificationHash": "0ADEF4A2DC357406",
+    "verificationUrl": "/api/certificates/verify/HACK26-CERT-46ACCFA4",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "CERT-2026-4646C93E": {
+    "id": "CERT-2026-4646C93E",
+    "recipientId": "usr_aab27916",
+    "recipientName": "Bivash Biswal",
+    "recipientEmail": "bivashbiswal.420@gmail.com",
+    "roleTitle": "Organizer",
+    "teamName": "Chakra",
+    "track": "Track 1: AI & Autonomous Agents",
+    "eventName": "GIETU Smart Hackathon 2026",
+    "certificateTitle": "CERTIFICATE OF EXCELLENCE",
+    "organizer": "GIET University & CampusCopilot Agentic Operations",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T04:33:22.079437+00:00",
+    "verificationHash": "283E78DCB4067D96",
+    "verificationUrl": "/api/certificates/verify/CERT-2026-4646C93E",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  },
+  "CERT-2026-41F0E042": {
+    "id": "CERT-2026-41F0E042",
+    "recipientId": "usr_26a1d770",
+    "recipientName": "Hello",
+    "recipientEmail": "25cseaiml395.prajurjyasubhadarshimohapatra@giet.edu",
+    "roleTitle": "Full-Stack Developer (React / FastAPI / Node)",
+    "teamName": "Solo Hacker",
+    "track": "Open Innovation & Smart Campus",
+    "eventName": "GIETU Smart Hackathon 2026",
+    "certificateTitle": "CERTIFICATE OF EXCELLENCE",
+    "organizer": "GIET University & CampusCopilot Agentic Operations",
+    "achievementType": "Participant of Excellence",
+    "issueDate": "August 28, 2026",
+    "createdAt": "2026-08-28T05:25:33.320959+00:00",
+    "verificationHash": "D928F72AAD11C0EC",
+    "verificationUrl": "/api/certificates/verify/CERT-2026-41F0E042",
+    "status": "verified",
+    "signatures": [
+      {
+        "name": "Dr. A. K. Sharma",
+        "title": "Convener & Head of CSE"
+      },
+      {
+        "name": "Prof. S. R. Patnaik",
+        "title": "Lead Hackathon Organizer"
+      }
+    ]
+  }
+}

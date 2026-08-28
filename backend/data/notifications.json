@@ -1,0 +1,50 @@
+[
+  {
+    "id": "notif_qa_30eae9",
+    "userId": null,
+    "title": "Answer to: \"I need to contact with Admin for Api key\"",
+    "message": "Yes it will be given",
+    "type": "qa_answer",
+    "query": "I need to contact with Admin for Api key",
+    "answer": "Yes it will be given",
+    "answeredBy": "Bivash Biswal",
+    "ticketId": "esc_25351886",
+    "targetUser": "bivashbiswal.420@gmail.com",
+    "isRead": false,
+    "link": null,
+    "createdAt": "2026-08-28T04:32:51.764470+00:00",
+    "timestamp": "2026-08-28T04:32:51.764470+00:00"
+  },
+  {
+    "id": "notif_qa_4fb752",
+    "userId": null,
+    "title": "Answer to: \"I need to contact to admin\"",
+    "message": "Yes message received",
+    "type": "qa_answer",
+    "query": "I need to contact to admin",
+    "answer": "Yes message received",
+    "answeredBy": "Bivash Biswal",
+    "ticketId": "esc_1c34fa5c",
+    "targetUser": "dgod71120@gmail.com",
+    "isRead": false,
+    "link": null,
+    "createdAt": "2026-08-28T04:05:30.220237+00:00",
+    "timestamp": "2026-08-28T04:05:30.220237+00:00"
+  },
+  {
+    "id": "notif_qa_fa3293",
+    "userId": null,
+    "title": "Answer to: \"Where can we request quantum computing time?\"",
+    "message": "Quantum computing hardware access is available via IBM Quantum credits at Desk 5.",
+    "type": "qa_answer",
+    "query": "Where can we request quantum computing time?",
+    "answer": "Quantum computing hardware access is available via IBM Quantum credits at Desk 5.",
+    "answeredBy": "Sarah Admin",
+    "ticketId": "esc_ea4d9be1",
+    "targetUser": "hacker@hackathon.com",
+    "isRead": false,
+    "link": null,
+    "createdAt": "2026-08-28T03:33:30.930493+00:00",
+    "timestamp": "2026-08-28T03:33:30.930493+00:00"
+  }
+]
